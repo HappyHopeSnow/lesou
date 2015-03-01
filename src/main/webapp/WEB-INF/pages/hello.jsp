@@ -8,18 +8,17 @@
 	<meta name="Description" content="Judas.n个人导航,YouMeek导航"/>
 	<meta name="Keywords" content="Judas.n,Judas.n个人导航,YouMeek,YouMeek导航"/>
 	<meta name="author" content="http://www.youmeek.com"/>
-	<link rel="stylesheet" type="text/css" href="http://external-file.b0.upaiyun.com/css/css.css?updateTime=20150111" >
-	<link rel="stylesheet" type="text/css" href="http://external-file.b0.upaiyun.com/css/tipTip.css?updateTime=20150111">
+	<link rel="stylesheet" type="text/css" href="/css/css.css" >
+	<link rel="stylesheet" type="text/css" href="/css/tipTip.css">
 	<link rel="shortcut icon" href="favicon.ico"/>
-	<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
-	<script type="text/javascript" src="http://external-file.b0.upaiyun.com/js/jquery-1.9.1.min.js?updateTime=20150111"></script>
-	<script type="text/javascript" src="http://external-file.b0.upaiyun.com/js/jquery.tipTip.minified.js?updateTime=20150111"></script>
-	<script type="text/javascript" src="http://external-file.b0.upaiyun.com/js/dbx.js?updateTime=20150111"></script>
-	<script type="text/javascript" src="http://external-file.b0.upaiyun.com/js/js.js?updateTime=20150111"></script>
+	<script type="text/javascript" src="/js/m.js"></script>
+	<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.tipTip.minified.js"></script>
+	<script type="text/javascript" src="/js/dbx.js"></script>
+	<script type="text/javascript" src="/js/js.js"></script>
 </head>
 <base target="_blank">
 <body>
-<h1>${message}</h1>
 <div id="header-wrap">
 	<div id="header">
 		<div class="logo"><h1><a href="http://i.youmeek.com" target="_self">YouMeek导航</a></h1></div>
@@ -3919,69 +3918,12 @@
 		<span class = "copyright" style="width: 103px;">
 			<a rel="nofollow" target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=utDP3tvJlNT6y8uU2dXX" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
 		</span>
-		<span class = "copyright"><a href = "http://www.YouMeek.com" target = "_blank">关于Judas.n</a></span>
-		<span class = "copyright"><a href="http://weibo.com/stonelau" target="_blank">关于Stonelau</a></span>
+		<span class = "copyright"><a href = "http://www.YouMeek.com" target = "_blank">关于lian_le</a></span>
 		<!--<span class = "copyright"><a href="http://i.youmeek.com/log/" target="_blank">导航更新记录</a></span>-->
 		<span class = "copyright" style="float: right;">
 			<embed src="http://www.xiami.com/widget/0_3588359/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 		</span>
 	</div>
 </div>
-<div style="float: right;position:fixed;bottom: 1%;left: 1%;">
-	<script type="text/javascript">BAIDU_CLB_fillSlot("1029445");</script>
-</div>
-<div style="float: right;position:fixed;bottom: 1%;right: 1%;">
-	<script type="text/javascript">BAIDU_CLB_fillSlot("1029436");</script>
-</div>
-<div class="footer-wrapper" style="padding-bottom: 10px;">
-	<div class="footer">
-		<script type="text/javascript">BAIDU_CLB_fillSlot("1029285");</script>
-	</div>
-</div>
-<script type="text/javascript">
-	var manager = new dbxManager('index', 'yes', 'yes', 'button');
-	var index = new dbxGroup('index', 'vertical', '7', 'no', '10', 'yes', 'closed', 'open', 'close', '', 'click to %toggle% this box', 'use the arrow keys to move this box. ', 'press the enter key to %toggle% this box. ', '%mytitle%  [%dbxtitle%]', 'hit the enter key to select this target', 'sorry, this target cannot be selected');
-</script>
-<script type="text/javascript">
-	var manager = new dbxManager('index2', 'yes', 'yes', 'button');
-	var index2 = new dbxGroup('index2', 'vertical', '7', 'no', '10', 'yes', 'closed', 'open', 'close', '', 'click to %toggle% this box', 'use the arrow keys to move this box. ', 'press the enter key to %toggle% this box. ', '%mytitle%  [%dbxtitle%]', 'hit the enter key to select this target', 'sorry, this target cannot be selected');
-</script>
-<script type="text/javascript">
-	var manager = new dbxManager('design', 'yes', 'yes', 'button');
-	var design = new dbxGroup('design', 'vertical', '7', 'no', '10', 'yes', 'closed', 'open', 'close', '', 'click to %toggle% this box', 'use the arrow keys to move this box. ', 'press the enter key to %toggle% this box. ', '%mytitle%  [%dbxtitle%]', 'hit the enter key to select this target', 'sorry, this target cannot be selected');
-</script>
-<script type="text/javascript">
-	var manager = new dbxManager('frontend', 'yes', 'yes', 'button');
-	var frontend = new dbxGroup('frontend', 'vertical', '7', 'no', '10', 'yes', 'closed', 'open', 'close', '', 'click to %toggle% this box', 'use the arrow keys to move this box. ', 'press the enter key to %toggle% this box. ', '%mytitle%  [%dbxtitle%]', 'hit the enter key to select this target', 'sorry, this target cannot be selected');
-</script>
-<script type="text/javascript">
-	var manager = new dbxManager('data', 'yes', 'yes', 'button');
-	var data = new dbxGroup('data', 'vertical', '7', 'no', '10', 'yes', 'closed', 'open', 'close', '', 'click to %toggle% this box', 'use the arrow keys to move this box. ', 'press the enter key to %toggle% this box. ', '%mytitle%  [%dbxtitle%]', 'hit the enter key to select this target', 'sorry, this target cannot be selected');
-</script>
-<script type="text/javascript">
-	var manager = new dbxManager('webmaster', 'yes', 'yes', 'button');
-	var webmaster = new dbxGroup('webmaster', 'vertical', '7', 'no', '10', 'yes', 'closed', 'open', 'close', '', 'click to %toggle% this box', 'use the arrow keys to move this box. ', 'press the enter key to %toggle% this box. ', '%mytitle%  [%dbxtitle%]', 'hit the enter key to select this target', 'sorry, this target cannot be selected');
-</script>
-<script type="text/javascript">
-	var manager = new dbxManager('software', 'yes', 'yes', 'button');
-	var software = new dbxGroup('software', 'vertical', '7', 'no', '10', 'yes', 'closed', 'open', 'close', '', 'click to %toggle% this box', 'use the arrow keys to move this box. ', 'press the enter key to %toggle% this box. ', '%mytitle%  [%dbxtitle%]', 'hit the enter key to select this target', 'sorry, this target cannot be selected');
-</script>
-<script type="text/javascript">
-	var manager = new dbxManager('androidSoftware', 'yes', 'yes', 'button');
-	var androidSoftware = new dbxGroup('androidSoftware', 'vertical', '7', 'no', '10', 'yes', 'closed', 'open', 'close', '', 'click to %toggle% this box', 'use the arrow keys to move this box. ', 'press the enter key to %toggle% this box. ', '%mytitle%  [%dbxtitle%]', 'hit the enter key to select this target', 'sorry, this target cannot be selected');
-</script>
-<script type="text/javascript">
-	var manager = new dbxManager('newness', 'yes', 'yes', 'button');
-	var newness = new dbxGroup('newness', 'vertical', '7', 'no', '10', 'yes', 'closed', 'open', 'close', '', 'click to %toggle% this box', 'use the arrow keys to move this box. ', 'press the enter key to %toggle% this box. ', '%mytitle%  [%dbxtitle%]', 'hit the enter key to select this target', 'sorry, this target cannot be selected');
-</script>
-
-<!-- Baidu Button BEGIN -->
-<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=5&amp;pos=right&amp;uid=4091011" ></script>
-<script type="text/javascript" id="bdshell_js"></script>
-<script type="text/javascript">
-	var bds_config={"bdTop":47};
-	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
-</script>
-<!-- Baidu Button END -->
 </body>
 </html>
